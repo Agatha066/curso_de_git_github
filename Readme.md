@@ -15,3 +15,8 @@
     10.2 reset --mixed
     10.3 reset --hard
 11. Comando git checkout
+12. Comando git merge
+13. Comando git tag
+14. Usando o Github
+    14.1 criar repositorio
+15. Comando git push -> Enviar para o github
