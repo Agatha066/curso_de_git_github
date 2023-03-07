@@ -19,4 +19,6 @@
 13. Comando git tag
 14. Usando o Github
     * 14.1 criar repositorio
-15. Comando git push -> Enviar para o github
+15. Comando git push 
+    * 15.1 Enviar para o github
+    * 15.2 Fazer alteração
