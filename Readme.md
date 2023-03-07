@@ -11,12 +11,12 @@
 8. Comando git diff
 9. Comando .gitignore
 10. git restore e git reset
-    10.1 reset --soft
-    10.2 reset --mixed
-    10.3 reset --hard
+    * 10.1 reset --soft
+    * 10.2 reset --mixed
+    * 10.3 reset --hard
 11. Comando git checkout
 12. Comando git merge
 13. Comando git tag
 14. Usando o Github
-    14.1 criar repositorio
+    * 14.1 criar repositorio
 15. Comando git push -> Enviar para o github
