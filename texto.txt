@@ -1,2 +1,4 @@
 06/03/2023 - Aprendendo a usar o comando git log
 testando!!
+
+07/03/2023 - aprendendo sobre a gestão de conflitos

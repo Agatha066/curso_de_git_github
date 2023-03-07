@@ -21,4 +21,13 @@
     * 14.1 criar repositorio
 15. Comando git push 
     * 15.1 Enviar para o github
-    * 15.2 Fazer alteração
+    * 15.2 Fazer alteração da maquina local e subir para o github
+16. Comando git pull
+    * 16.1 Fazer alteração no github e subir para a maquina local
+17. Publicar tags (versões) no github
+18. Gestão de conflitos no merge
+19. Contribuição com repositório no github
+20. Introdução ao git flow
+21. Criando uma nova Feature
+22. Criando uma nova Release
+23. Criando uma nova Hotflix
